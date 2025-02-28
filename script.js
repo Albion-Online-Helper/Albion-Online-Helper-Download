@@ -1,0 +1,1 @@
+console.log("Albion Online Helper is active!");
